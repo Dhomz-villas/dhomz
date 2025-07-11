@@ -1,4 +1,4 @@
-https://github.com/yourusername/dhomz-blog/blob/main/blog-post.md
+[https://github.com/yourusername/dhomz-blog/blob/main/blog-post.md](https://dhomz.com/)
 # dhomz
 # 🏡 Why DHOMZ Villas Are the Smart Choice for Your Dream Home in Malappuram
 
